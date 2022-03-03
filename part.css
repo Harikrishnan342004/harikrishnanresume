@@ -1,0 +1,24 @@
+*{
+  
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    
+}header{
+    border: 5px solid black;
+    background-image: url("1.gif");
+    
+    background-size: cover;
+    color: black;
+    padding: 100px;
+}
+body{
+    margin: "0px";
+    padding: "0";
+    
+}
+
+
+
+
